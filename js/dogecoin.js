@@ -1,9 +1,9 @@
-/* YouTube "What is Dogecoin" Video */
+/* YouTube "What is dogecoin-2" Video */
 $(document).ready(function() {
     function onPlayerStateChange(event) {
         switch(event.data) {
             case YT.PlayerState.ENDED:
-                $('.logo-container').fadeOut('fast').removeClass('video').addClass('logo').html('<img class="watch-video" src="/imgs/such-video.png" alt="Watch Video"><img src="/imgs/dogecoin-300.png" alt="Dogecoin Logo">').fadeIn('fast');
+                $('.logo-container').fadeOut('fast').removeClass('video').addClass('logo').html('<img class="watch-video" src="/imgs/such-video.png" alt="Watch Video"><img src="/imgs/dogecoin-2-300.png" alt="dogecoin-2 Logo">').fadeIn('fast');
                 break;
         }
     }

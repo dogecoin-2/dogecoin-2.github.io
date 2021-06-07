@@ -1,4 +1,4 @@
-##Contributing to dogecoin.com (Windows Guide)
+##Contributing to dogecoin-2.com (Windows Guide)
 
 
 ###Step 1: Set-up a webserver
@@ -27,11 +27,11 @@ Now you're ready to start :smiley:
 
 ##Step 2: Getting the source
 
-[Click here](https://github.com/dogecoin/dogecoin.com/archive/gh-pages.zip) to download the latest source.
-Extract the archive to `C:\xampp\htdocs\` and rename the folder `dogecoin.com-gh-pages` to `dogecoin`.
+[Click here](https://github.com/dogecoin-2/dogecoin-2.com/archive/gh-pages.zip) to download the latest source.
+Extract the archive to `C:\xampp\htdocs\` and rename the folder `dogecoin-2.com-gh-pages` to `dogecoin-2`.
 
 ##Step 3: Happy Coding :)
 
-Now you have a working copy of [dogecoin.com](http://dogecoin.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
+Now you have a working copy of [dogecoin-2.com](http://dogecoin-2.com) at [http://127.0.0.1/dogecoin-2](http://127.0.0.1/dogecoin-2).
 
-Just point your favourite IDE or Editor to `C:\xampp\htdocs\dogecoin\`  and start editing.
+Just point your favourite IDE or Editor to `C:\xampp\htdocs\dogecoin-2\`  and start editing.

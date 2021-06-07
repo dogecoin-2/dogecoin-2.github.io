@@ -1,4 +1,4 @@
-##Contributing to dogecoin.com (Linux Guide)
+##Contributing to dogecoin-2.com (Linux Guide)
 
 
 
@@ -45,9 +45,9 @@ or
     
 Now you're ready to start :smiley:
 
-##Step 2: Clone the dogecoin.com repo
+##Step 2: Clone the dogecoin-2.com repo
 
-To clone the dogecoin.com repository you'll need GIT.
+To clone the dogecoin-2.com repository you'll need GIT.
 
 To install GIT, open a terminal and execute:
   
@@ -75,12 +75,12 @@ For any older version use:
 
     cd /var/www
     
-Now clone the repo (cloning will create the subdirectory `dogecoin`)
+Now clone the repo (cloning will create the subdirectory `dogecoin-2`)
 
-    git clone https://github.com/dogecoin/dogecoin.com.git dogecoin
+    git clone https://github.com/dogecoin-2/dogecoin-2.com.git dogecoin-2
     
 ##Step 3: Happy Coding :)
 
-Now you have a working copy of [dogecoin.com](http://dogecoin.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
+Now you have a working copy of [dogecoin-2.com](http://dogecoin-2.com) at [http://127.0.0.1/dogecoin-2](http://127.0.0.1/dogecoin-2).
 
-Just point your favourite IDE or Editor to `/var/www/dogecoin` or `/var/www/html/dogecoin` and start editing.
+Just point your favourite IDE or Editor to `/var/www/dogecoin-2` or `/var/www/html/dogecoin-2` and start editing.
